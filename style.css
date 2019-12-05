@@ -1,0 +1,11 @@
+Html{
+    Height : 100% ;
+    Overflow : hidden;
+}
+
+.logo{
+    max-width: 100%;
+    height : auto;
+    Position : center;
+    gap: 10vh;
+}
